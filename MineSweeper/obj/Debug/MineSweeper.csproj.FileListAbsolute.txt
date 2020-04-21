@@ -1,0 +1,9 @@
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\MineSweeper\obj\Debug\MineSweeper.pdb
